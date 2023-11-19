@@ -1,11 +1,8 @@
 # Lab7Web
 
-Nama    : Frans Putra Sinaga 
-
-NIM     : 312210046
-
-Kelas   : TI.22.A.1
-
+Nama    : Frans Putra Sinaga br
+NIM     : 312210046  br
+Kelas   : TI.22.A.1 br
 Matkul  : Pemrograman Web 1
 
 
