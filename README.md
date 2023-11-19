@@ -1,11 +1,10 @@
 # Lab7Web
 
-```
-Nama    : Tiara Putri
-NIM     : 312210064
+Nama    : Frans Putra Sinaga 
+NIM     : 312210046
 Kelas   : TI.22.A.1
 Matkul  : Pemrograman Web 1
-```
+
 
 ## **Daftar Isi**
 [Instruksi Praktikum](#instruksi-praktikum)         
